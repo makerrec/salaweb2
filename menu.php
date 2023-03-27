@@ -1,5 +1,5 @@
 <?php
-$path = 'http://' . $_SERVER["HTTP_HOST"] . '/projetoWeb2';
+$path = 'http://' . $_SERVER["HTTP_HOST"] . '/devweb2023';
 ?>
 <nav class="navbar navbar-expand-lg bg-body-tertiary mt-3">
     <div class="container-fluid">
